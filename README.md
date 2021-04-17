@@ -30,4 +30,5 @@ NB.
 
 ![image](https://user-images.githubusercontent.com/49855645/115119233-fbf28400-9faf-11eb-9809-56b55c52e772.png)
 
-Telegram: @Zenonymous
+Contact:
+    Telegram: @Zenonymous
